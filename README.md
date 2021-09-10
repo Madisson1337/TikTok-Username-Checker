@@ -9,9 +9,6 @@ This tool can be inaccurate at times because it does not use the TikTok api. It 
 
 This tool is used for educational purposes only. 
 
-## Picture
-![Picture](https://i.ibb.co/Nxv536d/Screenshot-156.png)
-
 ## How to use
 - Python must be installed
 
